@@ -1,0 +1,2 @@
+putchar(getchar());
+0
