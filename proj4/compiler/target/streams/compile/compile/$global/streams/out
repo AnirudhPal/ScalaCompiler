@@ -1,0 +1,21 @@
+[0m[[0m[33mwarn[0m] [0m[0m/u/riker/u91/pal5/CS502/proj4/compiler/src/miniscala/CMScalaAnalyzer.scala:312:11: postfix operator toMap should be enabled[0m
+[0m[[0m[33mwarn[0m] [0m[0mby making the implicit value scala.language.postfixOps visible.[0m
+[0m[[0m[33mwarn[0m] [0m[0mThis can be achieved by adding the import clause 'import scala.language.postfixOps'[0m
+[0m[[0m[33mwarn[0m] [0m[0mor by setting the compiler option -language:postfixOps.[0m
+[0m[[0m[33mwarn[0m] [0m[0mSee the Scaladoc for value scala.language.postfixOps for a discussion[0m
+[0m[[0m[33mwarn[0m] [0m[0mwhy the feature should be explicitly enabled.[0m
+[0m[[0m[33mwarn[0m] [0m[0m        } toMap[0m
+[0m[[0m[33mwarn[0m] [0m[0m          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/u/riker/u91/pal5/CS502/proj4/compiler/src/miniscala/CMScalaAnalyzer.scala:313:136: postfix operator unzip should be enabled[0m
+[0m[[0m[33mwarn[0m] [0m[0mby making the implicit value scala.language.postfixOps visible.[0m
+[0m[[0m[33mwarn[0m] [0m[0m        val (nargs1, nargs2) = (rargs1 zip rargs2) map { case ((n1, a1), (n2, a2)) => ((n1, subst(a1, from)), (n2, subst(a2, from))) } unzip[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                                                                                       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/u/riker/u91/pal5/CS502/proj4/compiler/src/miniscala/CMScalaToCPSTranslator.scala:128:5: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: Binary(), Nullary(), Ternary(), Unary()[0m
+[0m[[0m[33mwarn[0m] [0m[0m				op match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m				^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/u/riker/u91/pal5/CS502/proj4/compiler/src/miniscala/CMScalaToCPSTranslator.scala:296:5: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: Binary(), Nullary(), Ternary(), Unary()[0m
+[0m[[0m[33mwarn[0m] [0m[0m				op match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m				^[0m
+[0m[[0m[33mwarn[0m] [0m[0mfour warnings found[0m

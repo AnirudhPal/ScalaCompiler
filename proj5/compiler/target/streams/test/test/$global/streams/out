@@ -1,0 +1,137 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector(-Djava.security.manager, -Djava.security.policy=/u/riker/u91/pal5/CS502/proj5/compiler/project/tests.policy, -Xss32M, -Xms128M)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for com.novocode.junit.JUnitFramework produced 2 initial tasks for 2 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(miniscala.test.CPSValueRepresentation_Whitebox, sbt.ForkMain$AnnotatedFingerscan@cece2c1, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Whitebox[0m.[36mtestValueReprOnePlusTwo[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Whitebox[0m.[36mtestValueReprOnePlusTwo[0m finished, took 0.206 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 1 total, 0.267s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(miniscala.test.CPSValueRepresentation_Blackbox, sbt.ForkMain$AnnotatedFingerscan@717eb63c, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibFunctions3[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibFunctions3[0m finished, took 0.44 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestSideEffectingCondition[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestSideEffectingCondition[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic3[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic3[0m finished, took 0.006 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic4[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic4[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic5[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic5[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic6[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic6[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic7[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic7[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic8[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic8[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic9[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic9[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists10[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists10[0m finished, took 0.065 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists11[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists11[0m finished, took 0.062 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists12[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists12[0m finished, took 0.056 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists13[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists13[0m finished, took 0.061 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestConditional1[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestConditional1[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestConditional2[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestConditional2[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestConditional4[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestConditional4[0m finished, took 0.0 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibStrings1[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibStrings1[0m finished, took 0.037 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibStrings2[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibStrings2[0m finished, took 0.046 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibStrings3[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibStrings3[0m finished, took 0.067 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists1[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists1[0m finished, took 0.042 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists2[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists2[0m finished, took 0.042 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists3[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists3[0m finished, took 0.044 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists4[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists4[0m finished, took 0.041 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists5[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists5[0m finished, took 0.038 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists6[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists6[0m finished, took 0.043 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists7[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists7[0m finished, took 0.041 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists8[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists8[0m finished, took 0.029 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists9[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLibLists9[0m finished, took 0.029 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveArithmetic1[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveArithmetic1[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveArithmetic2[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveArithmetic2[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveArithmetic3[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveArithmetic3[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveArithmetic4[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveArithmetic4[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveArithmetic5[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveArithmetic5[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveArithmetic6[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveArithmetic6[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveArithmetic7[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveArithmetic7[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveArithmetic8[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveArithmetic8[0m finished, took 0.0 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveArithmetic9[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveArithmetic9[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveArithmetic10[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveArithmetic10[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveBlocks1[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveBlocks1[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveBlocks2[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveBlocks2[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveBlocks3[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveBlocks3[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveBlocks4[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveBlocks4[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveBlocks5[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveBlocks5[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveBlocks7[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveBlocks7[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic10[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic10[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic11[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic11[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic12[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic12[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic13[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic13[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic14[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic14[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic15[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic15[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic16[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic16[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic17[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic17[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic18[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic18[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic19[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic19[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic22[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLogic22[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLog20[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLog20[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLog21[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestPrimitiveLog21[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLetrec[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestLetrec[0m finished, took 0.028 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestAppOrder[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSValueRepresentation_Blackbox[0m.[36mtestAppOrder[0m finished, took 0.027 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 59 total, 1.313s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 59 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 60, Failed 0, Errors 0, Passed 60[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	miniscala.test.CPSValueRepresentation_Blackbox[0m
+[0m[[0m[0mdebug[0m] [0m[0m	miniscala.test.CPSValueRepresentation_Whitebox[0m

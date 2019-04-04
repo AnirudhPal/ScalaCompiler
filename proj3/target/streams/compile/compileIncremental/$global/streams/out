@@ -1,0 +1,36 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/u/riker/u91/pal5/CS502/proj3/src/main/scala/project3/Parser.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(project3.Language.LetRec, project3.Tokens.Literal, project3.Language.BaseType, project3.BaseParser, project3.Scanner, project3.Tokens.Delim, project3.Language.Exp, project3.Tokens.EOF, project3.FunctionParser, project3.Language.Lit, project3.Language, project3.Language.Type, project3.Language.While, project3.Language.Ref, project3.Language.FunDef, project3.Language.ArrayDec, project3.Language.VarDec, project3.Tokens.Token, project3.Tokens, project3.Language.ArrayType, project3.Position, project3.Parser, project3.Language.If, project3.SyntacticSugarParser, project3.Language.FunType, project3.Tokens.Keyword, project3.Language.UnknownType, project3.Tokens.Ident, project3.Language.Arg, project3.Language.App, project3.ArrayParser, project3.Language.VarAssign, project3.Language.Prim, project3.Language.Let, project3.Positioned)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(project3.Language.LetRec, project3.Tokens.Literal, project3.Language.BaseType, project3.BaseParser, project3.Scanner, project3.Tokens.Delim, project3.Language.Exp, project3.Tokens.EOF, project3.FunctionParser, project3.Language.Lit, project3.Language, project3.Language.Type, project3.Language.While, project3.Language.Ref, project3.Language.FunDef, project3.Language.ArrayDec, project3.Language.VarDec, project3.Tokens.Token, project3.Tokens, project3.Language.ArrayType, project3.Position, project3.Parser, project3.Language.If, project3.SyntacticSugarParser, project3.Language.FunType, project3.Tokens.Keyword, project3.Language.UnknownType, project3.Tokens.Ident, project3.Language.Arg, project3.Language.App, project3.ArrayParser, project3.Language.VarAssign, project3.Language.Prim, project3.Language.Let, project3.Positioned)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/u/riker/u91/pal5/CS502/proj3/src/main/scala/project3/Parser.scala)[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to /u/riker/u91/pal5/CS502/proj3/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.2.5:compile for Scala 2.12.3[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.2.5:compile for Scala 2.12.3[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 5be22f89 for Scala compiler version 2.12.3[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-unchecked[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-feature[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/homes/pal5/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.3.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/u/riker/u91/pal5/CS502/proj3/target/scala-2.12/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 5.698341031 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m

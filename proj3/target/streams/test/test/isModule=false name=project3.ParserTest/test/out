@@ -1,0 +1,10 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mParserTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- SingleDigit[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- GenericPrecedence[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ParseType[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ParseOptionalType[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- IfSugar[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DumSugar[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- Functions *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  LetRec(List(FunDef(fun1,List(Arg(x,Int,pos), Arg(y,Int,pos)),((,Int),(,Int)) => Int,Prim(+,List(Ref(x), Lit(5))))),App(App(Ref(fun1),List(Lit(10), Lit(20))),List(Lit(2), Prim(+,List(Lit(2), Lit(3)))))) did not equal LetRec(List(),LetRec(List(FunDef(fun1,List(Arg(x,Int,pos), Arg(y,Int,pos)),((,Int),(,Int)) => Int,Prim(+,List(Ref(x), Lit(5))))),App(App(Ref(fun1),List(Lit(10), Lit(20))),List(Lit(2), Prim(+,List(Lit(2), Lit(3))))))) Invalid result (ParserTest.scala:30)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Arrays[0m[0m

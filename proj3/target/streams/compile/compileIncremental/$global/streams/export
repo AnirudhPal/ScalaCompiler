@@ -1,0 +1,1 @@
+scalac -deprecation -classpath /u/riker/u91/pal5/CS502/proj3/target/scala-2.12/classes -feature -unchecked -bootclasspath /homes/pal5/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.3.jar /u/riker/u91/pal5/CS502/proj3/src/main/scala/project3/Parser.scala
