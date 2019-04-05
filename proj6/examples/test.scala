@@ -1,2 +1,0 @@
-putchar(getchar());
-0
