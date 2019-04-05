@@ -4,7 +4,7 @@
 		module="cmscala-compiler_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20190404182243"
+		publication="20190405160353"
 	>
 		<description>
 		CMScala-compiler

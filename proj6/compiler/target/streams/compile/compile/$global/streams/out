@@ -1,4 +1,6 @@
-[0m[[0m[31merror[0m] [0m[0m/u/riker/u91/pal5/CS502/proj6/compiler/src/miniscala/CPSOptimizer.scala:113:32: CPSOptimizer.this.treeModule.Tree does not take parameters[0m
-[0m[[0m[31merror[0m] [0m[0m				shrink(body.subst(replace))(s) [0m
-[0m[[0m[31merror[0m] [0m[0m				                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/bidcit/ScalaCompiler/proj6/compiler/src/miniscala/CPSOptimizer.scala:125:3: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: CPSOptimizer.this.treeModule.Tree[0m
+[0m[[0m[31merror[0m] [0m[0m		if(args.forall(a => s.lEnv.contains(a))) {[0m
+[0m[[0m[31merror[0m] [0m[0m		^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m

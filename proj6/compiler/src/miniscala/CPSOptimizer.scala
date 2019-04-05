@@ -91,47 +91,100 @@ abstract class CPSOptimizer[T <: CPSTreeModule { type Name = Symbol }]
 
   private def shrink(tree: Tree): Tree = {
     def shrinkT(tree: Tree)(implicit s: State): Tree = tree match {
-			// TODO
-			case LetL(name, value, body) if(s.dead(name)) =>
-				shrinkT(body)(s)
-			case LetL(name, value, body) if(s.lInvEnv.contains(value)) =>
-				var replace = Substitution(name, s.lInvEnv(value))
-				shrinkT(body.subst(replace))(s)
-			case LetL(name, value, body) =>
-				LetL(name, value, shrinkT(body)(s.withLit(name, value)))
-			
-			case LetP(name, operation, args, body) if(s.dead(name) && !impure(operation)) =>
-				shrinkT(body)(s)
-			case LetP(name, operation, args, body) if(s.eInvEnv.contains((operation, args)) && !impure(operation) && !unstable(operation)) =>
-				var replace = Substitution(name, s.eInvEnv((operation, args)))
-				shrinkT(body.subst(replace))(s)
-			case LetP(name, operation, args, body) if(operation == identity) =>
-				var replace = Substitution(name, args(0))
-				shrinkT(body.subst(replace))(s)
 
-			// LN
-			case LetP(name, operation, args, body) if(s.lEnv.contains(args(0)) && leftNeutral.contains((s.lEnv(args(0)), operation))) =>
-				var replace = Substitution(name, args(1))
-				shrinkT(body.subst(replace))(s)
+      // LetL
+      case LetL(name, value, body) =>
+	// DCE
+	if(s.dead(name)) {
+        	shrinkT(body)(s)
+	}
+      	// CSE
+      	else if(s.lInvEnv.contains(value)) {
+        	shrinkT(body.subst(Substitution(name, s.lInvEnv(value))))(s)
+	}
+  	// ->
+	else {
+        	LetL(name, value, shrinkT(body)(s.withLit(name, value)))
+	}
 
-			// RN 
-			case LetP(name, operation, args, body) if(s.lEnv.contains(args(1)) && rightNeutral.contains((operation, s.lEnv(args(1))))) =>
-				var replace = Substitution(name, args(0))
-				shrinkT(body.subst(replace))(s) 
-
-			// LA
-			case LetP(name, operation, args, body) if(s.lEnv.contains(args(0)) && leftAbsorbing.contains((s.lEnv(args(0)), operation))) =>
-				var replace = Substitution(name, args(0))
-				shrinkT(body.subst(replace))(s)
-
-			// RA
-			case LetP(name, operation, args, body) if(s.lEnv.contains(args(1)) && rightAbsorbing.contains((operation, s.lEnv(args(1))))) =>
-				var replace = Substitution(name, args(1))
-				shrinkT(body.subst(replace))(s) 
-
-			case LetP(name, operation, args, body) =>
-				LetP(name, operation, args, shrinkT(body)(s.withExp(name, operation, args)))
+      // LetP
+      case LetP(name, op, args, body) =>
+	// DCE
+	if(s.dead(name) && !impure(op)) {
+        	shrinkT(body)(s)
+	}
+	// CSE
+	else if(!impure(op) && !unstable(op) && s.eInvEnv.contains((op, args))) {
+        	shrinkT(body.subst(Substitution(name, s.eInvEnv((op, args)))))(s)
+	}
+	// CF
+      	else if(args.length == 2 && args.forall(a => s.lEnv.contains(a))) {
+        	val lits = args map {a => s.lEnv(a)}
+        	LetL(name, vEvaluator(op, lits), shrinkT(body)(s.withLit(name, vEvaluator(op, lits))))
+	}
+	// ID
+	else if(args.length == 1 && op == identity) {
+        	shrinkT(body.subst(Substitution(name, args(0))))(s)
+	}
+	// Neut/Abs
+	else if(args.length == 2) {
+		// LN
+		if(s.lEnv.contains(args(0)) && leftNeutral.contains((s.lEnv(args(0)), op))) { 
+        		shrinkT(body.subst(Substitution(name, args(1))))(s)
+		}
+		// RN
+      		else if(s.lEnv.contains(args(1)) && rightNeutral.contains((op, s.lEnv(args(1))))) { 
+        		shrinkT(body.subst(Substitution(name, args(0))))(s)
+		}
+		// LA
+		else if(s.lEnv.contains(args(0)) && leftAbsorbing.contains((s.lEnv(args(0)), op))) { 
+        		shrinkT(body.subst(Substitution(name, args(0))))(s)
+		}
+		// RA
+		else if(s.lEnv.contains(args(1)) && rightAbsorbing.contains((op, s.lEnv(args(1))))) { 
+        		shrinkT(body.subst(Substitution(name, args(1))))(s)
+		}
+      		// SAN
+		else if(args(0) == args(1)) { 
+        		LetL(name, sameArgReduce(op), shrinkT(body)(s))
+		}
+		else {
+			LetP(name, op, args, shrinkT(body)(s.withExp(name, op, args)))
+		}
+	}
+	// -> 
+      	else {
+        	LetP(name, op, args, shrinkT(body)(s.withExp(name, op, args)))
+	}
+      
+      // IF
+      case If(cond, args, ct, cf) =>
+	// CF
+	if(args.length == 2 && s.lEnv.contains(args(0)) && s.lEnv.contains(args(1)) && (s.lEnv(args(0)) == s.lEnv(args(1)))) { 
+		if(sameArgReduceC(cond)) {         	
+			AppC(ct, Seq())
+		}
+		else {
+        		AppC(cf, Seq())
+		}
+	}
+	// CF
+      	else if(args.forall(a => s.lEnv.contains(a))) {
+        	val lits = args map {(arg: Name) => s.lEnv(arg)}
+        	if(cEvaluator(cond, lits)) { 
+			AppC(ct, Seq())
+		} 
+		else {
+			AppC(cf, Seq())
+		}
+	}
+      	else {
+		tree
+	}
+      
+      // Rest
       case _ => tree
+      
     }
 
     shrinkT(tree)(State(census(tree)))
@@ -209,6 +262,7 @@ abstract class CPSOptimizer[T <: CPSTreeModule { type Name = Symbol }]
     case LetF(fs, body) => (fs map { f => size(f.body) }).sum + size(body)
     case AppC(_, _) | AppF(_, _, _) | If(_, _, _, _) | Halt(_) => 1
   }
+
 
   // Returns whether a ValuePrimitive has side-effects
   protected val impure: ValuePrimitive => Boolean
