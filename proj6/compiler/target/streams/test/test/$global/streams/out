@@ -1,0 +1,1962 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector(-Djava.security.manager, -Djava.security.policy=/u/riker/u91/pal5/CS502/proj6/compiler/project/tests.policy, -Xss32M, -Xms128M)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for com.novocode.junit.JUnitFramework produced 2 initial tasks for 2 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(miniscala.test.CPSOptimizer_Blackbox, sbt.ForkMain$AnnotatedFingerscan@cece2c1, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibFunctions3[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibFunctions3[0m finished, took 0.453 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestSideEffectingCondition[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestSideEffectingCondition[0m finished, took 0.006 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic3[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic3[0m finished, took 0.008 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic4[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic4[0m finished, took 0.005 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic5[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic5[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic6[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic6[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic7[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic7[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic8[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic8[0m finished, took 0.004 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic9[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic9[0m finished, took 0.004 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists10[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists10[0m finished, took 0.061 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists11[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists11[0m finished, took 0.054 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists12[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists12[0m finished, took 0.048 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists13[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists13[0m finished, took 0.06 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestConditional1[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestConditional1[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestConditional2[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestConditional2[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestConditional4[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestConditional4[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibStrings1[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibStrings1[0m finished, took 0.041 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibStrings2[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibStrings2[0m finished, took 0.037 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibStrings3[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibStrings3[0m finished, took 0.092 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists1[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists1[0m finished, took 0.047 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists2[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists2[0m finished, took 0.042 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists3[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists3[0m finished, took 0.037 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists4[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists4[0m finished, took 0.043 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists5[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists5[0m finished, took 0.033 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists6[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists6[0m finished, took 0.031 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists7[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists7[0m finished, took 0.032 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists8[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists8[0m finished, took 0.033 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists9[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLibLists9[0m finished, took 0.028 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveArithmetic1[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[31mtestPrimitiveArithmetic1[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 1, took 0.003 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:118)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:133)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSLowProgramOutput(CPSOptTest.scala:91)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox$$anonfun$1.apply([35mCPSOptimizer_Blackbox.scala[0m:[33m9[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox$$anonfun$1.apply([35mCPSOptimizer_Blackbox.scala[0m:[33m9[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.ok.PrimitivesOKTests$class.testPrimitiveArithmetic1(PrimitivesOKTests.scala:8)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox.testPrimitiveArithmetic1([35mCPSOptimizer_Blackbox.scala[0m:[33m7[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveArithmetic1[0m finished, took 0.005 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveArithmetic2[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[31mtestPrimitiveArithmetic2[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 1, took 0.001 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:118)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:133)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSLowProgramOutput(CPSOptTest.scala:91)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox$$anonfun$1.apply([35mCPSOptimizer_Blackbox.scala[0m:[33m9[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox$$anonfun$1.apply([35mCPSOptimizer_Blackbox.scala[0m:[33m9[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.ok.PrimitivesOKTests$class.testPrimitiveArithmetic2(PrimitivesOKTests.scala:15)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox.testPrimitiveArithmetic2([35mCPSOptimizer_Blackbox.scala[0m:[33m7[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveArithmetic2[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveArithmetic3[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[31mtestPrimitiveArithmetic3[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 1, took 0.001 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:118)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:133)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:133)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:133)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSLowProgramOutput(CPSOptTest.scala:91)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox$$anonfun$1.apply([35mCPSOptimizer_Blackbox.scala[0m:[33m9[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox$$anonfun$1.apply([35mCPSOptimizer_Blackbox.scala[0m:[33m9[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.ok.PrimitivesOKTests$class.testPrimitiveArithmetic3(PrimitivesOKTests.scala:22)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox.testPrimitiveArithmetic3([35mCPSOptimizer_Blackbox.scala[0m:[33m7[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveArithmetic3[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveArithmetic4[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[31mtestPrimitiveArithmetic4[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 1, took 0.001 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:118)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:133)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSLowProgramOutput(CPSOptTest.scala:91)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox$$anonfun$1.apply([35mCPSOptimizer_Blackbox.scala[0m:[33m9[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox$$anonfun$1.apply([35mCPSOptimizer_Blackbox.scala[0m:[33m9[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.ok.PrimitivesOKTests$class.testPrimitiveArithmetic4(PrimitivesOKTests.scala:29)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox.testPrimitiveArithmetic4([35mCPSOptimizer_Blackbox.scala[0m:[33m7[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveArithmetic4[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveArithmetic5[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[31mtestPrimitiveArithmetic5[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 1, took 0.001 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:118)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:133)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSLowProgramOutput(CPSOptTest.scala:91)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox$$anonfun$1.apply([35mCPSOptimizer_Blackbox.scala[0m:[33m9[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox$$anonfun$1.apply([35mCPSOptimizer_Blackbox.scala[0m:[33m9[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.ok.PrimitivesOKTests$class.testPrimitiveArithmetic5(PrimitivesOKTests.scala:36)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox.testPrimitiveArithmetic5([35mCPSOptimizer_Blackbox.scala[0m:[33m7[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveArithmetic5[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveArithmetic6[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[31mtestPrimitiveArithmetic6[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 1, took 0.0 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:118)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:133)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:133)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSLowProgramOutput(CPSOptTest.scala:91)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox$$anonfun$1.apply([35mCPSOptimizer_Blackbox.scala[0m:[33m9[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox$$anonfun$1.apply([35mCPSOptimizer_Blackbox.scala[0m:[33m9[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.ok.PrimitivesOKTests$class.testPrimitiveArithmetic6(PrimitivesOKTests.scala:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox.testPrimitiveArithmetic6([35mCPSOptimizer_Blackbox.scala[0m:[33m7[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveArithmetic6[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveArithmetic7[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[31mtestPrimitiveArithmetic7[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 1, took 0.001 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:118)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:133)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSLowProgramOutput(CPSOptTest.scala:91)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox$$anonfun$1.apply([35mCPSOptimizer_Blackbox.scala[0m:[33m9[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox$$anonfun$1.apply([35mCPSOptimizer_Blackbox.scala[0m:[33m9[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.ok.PrimitivesOKTests$class.testPrimitiveArithmetic7(PrimitivesOKTests.scala:50)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox.testPrimitiveArithmetic7([35mCPSOptimizer_Blackbox.scala[0m:[33m7[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveArithmetic7[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveArithmetic8[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[31mtestPrimitiveArithmetic8[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 1, took 0.001 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:118)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:133)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSLowProgramOutput(CPSOptTest.scala:91)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox$$anonfun$1.apply([35mCPSOptimizer_Blackbox.scala[0m:[33m9[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox$$anonfun$1.apply([35mCPSOptimizer_Blackbox.scala[0m:[33m9[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.ok.PrimitivesOKTests$class.testPrimitiveArithmetic8(PrimitivesOKTests.scala:57)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox.testPrimitiveArithmetic8([35mCPSOptimizer_Blackbox.scala[0m:[33m7[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveArithmetic8[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveArithmetic9[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[31mtestPrimitiveArithmetic9[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 1, took 0.001 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:118)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSLowProgramOutput(CPSOptTest.scala:91)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox$$anonfun$1.apply([35mCPSOptimizer_Blackbox.scala[0m:[33m9[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox$$anonfun$1.apply([35mCPSOptimizer_Blackbox.scala[0m:[33m9[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.ok.PrimitivesOKTests$class.testPrimitiveArithmetic9(PrimitivesOKTests.scala:64)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox.testPrimitiveArithmetic9([35mCPSOptimizer_Blackbox.scala[0m:[33m7[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveArithmetic9[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveArithmetic10[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[31mtestPrimitiveArithmetic10[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 1, took 0.0 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:118)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:133)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSLowProgramOutput(CPSOptTest.scala:91)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox$$anonfun$1.apply([35mCPSOptimizer_Blackbox.scala[0m:[33m9[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox$$anonfun$1.apply([35mCPSOptimizer_Blackbox.scala[0m:[33m9[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.ok.PrimitivesOKTests$class.testPrimitiveArithmetic10(PrimitivesOKTests.scala:71)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox.testPrimitiveArithmetic10([35mCPSOptimizer_Blackbox.scala[0m:[33m7[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveArithmetic10[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveBlocks1[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[31mtestPrimitiveBlocks1[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 1, took 0.001 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:118)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSLowProgramOutput(CPSOptTest.scala:91)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox$$anonfun$1.apply([35mCPSOptimizer_Blackbox.scala[0m:[33m9[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox$$anonfun$1.apply([35mCPSOptimizer_Blackbox.scala[0m:[33m9[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.ok.PrimitivesOKTests$class.testPrimitiveBlocks1(PrimitivesOKTests.scala:78)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Blackbox.testPrimitiveBlocks1([35mCPSOptimizer_Blackbox.scala[0m:[33m7[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveBlocks1[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveBlocks2[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveBlocks2[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveBlocks3[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveBlocks3[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveBlocks4[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveBlocks4[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveBlocks5[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveBlocks5[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveBlocks7[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveBlocks7[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic10[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic10[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic11[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic11[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic12[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic12[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic13[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic13[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic14[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic14[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic15[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic15[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic16[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic16[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic17[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic17[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic18[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic18[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic19[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic19[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic22[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic22[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic23[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic23[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic24[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic24[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic25[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLogic25[0m finished, took 0.018 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLog20[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLog20[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLog21[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestPrimitiveLog21[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLetrec[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestLetrec[0m finished, took 0.03 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestAppOrder[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Blackbox[0m.[36mtestAppOrder[0m finished, took 0.028 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[31m11 failed[0m[34m, [0m[34m0 ignored[0m[34m, 62 total, 1.429s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 62 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(miniscala.test.CPSOptimizer_Greybox, sbt.ForkMain$AnnotatedFingerscan@37021103, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingCharInt[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestConstantFoldingCharInt[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0m'a'.toInt[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.029 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingCharInt[0m finished, took 0.029 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestNeutralElementsDivOne[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestNeutralElementsDivOne[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 0, took 0.002 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:113)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSOptStats(CPSOptTest.scala:60)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSBothSeq(CPSOptTest.scala:73)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Greybox.testNeutralElementsDivOne([35mCPSOptimizer_Greybox.scala[0m:[33m140[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestNeutralElementsDivOne[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestFunInliningRecursiveTrick[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestFunInliningRecursiveTrick[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0mdef f(x: Int): Int = g(x); def g(y: Int): Int = f(y); def h(z: Int) = z; h(3)[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       3  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       1  AppF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  AppC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 3[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 1[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.008 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestFunInliningRecursiveTrick[0m finished, took 0.008 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestDCEFunsRecursive3WithEtaReduction[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestDCEFunsRecursive3WithEtaReduction[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0mdef f(x: Int): Int = if (x == 0) 0 else g(x - 1); def g(y: Int): Int = f(y); def h(z: Int) = z; f(0) + f(0) + f(0)[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m      13  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       9  LetC[0m
+[0m[[0m[31merror[0m] [0m[0m       5  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       3  If[0m
+[0m[[0m[31merror[0m] [0m[0m       3  AppF[0m
+[0m[[0m[31merror[0m] [0m[0m       3  AppC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       2  CPSSub$[0m
+[0m[[0m[31merror[0m] [0m[0m       2  CPSAdd$[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mLogic Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       3  CPSEq$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 3[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 9[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.009 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestDCEFunsRecursive3WithEtaReduction[0m finished, took 0.009 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestInliningConstantFoldingDCE[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestInliningConstantFoldingDCE[0m failed: assertion failed: [0m
+[0m[[0m[31merror[0m] [0m[0mOutput is different: (whitespace is always ignored)[0m
+[0m[[0m[31merror[0m] [0m[0msource: [0m
+[0m[[0m[31merror[0m] [0m[0mdef printChar(c: Int) = putchar(c);[0m
+[0m[[0m[31merror[0m] [0m[0m           def functionCompose(f: Int => Int, g: Int => Int) = (x: Int) => f(g(x));[0m
+[0m[[0m[31merror[0m] [0m[0m           def plus(x: Int, y: Int) = x + y;[0m
+[0m[[0m[31merror[0m] [0m[0m           def succ(x: Int) = x + 1;[0m
+[0m[[0m[31merror[0m] [0m[0m           def twice(x: Int) = x + x;[0m
+[0m[[0m[31merror[0m] [0m[0m           printChar(functionCompose(succ,twice)(39));[0m
+[0m[[0m[31merror[0m] [0m[0m           printChar(functionCompose(succ,succ)(73));[0m
+[0m[[0m[31merror[0m] [0m[0m           printChar(functionCompose(twice,succ)(4))[0m
+[0m[[0m[31merror[0m] [0m[0moutput: [0m
+[0m[[0m[31merror[0m] [0m[0mdeff v$1(v$10, v$11) = {[0m
+[0m[[0m[31merror[0m] [0m[0m  vall v$12 = 1;[0m
+[0m[[0m[31merror[0m] [0m[0m  valp v$13 = v$11 >> v$12;[0m
+[0m[[0m[31merror[0m] [0m[0m  valp v$14 = byte-write(v$13);[0m
+[0m[[0m[31merror[0m] [0m[0m  vall v$15 = 2;[0m
+[0m[[0m[31merror[0m] [0m[0m  v$10(v$15)[0m
+[0m[[0m[31merror[0m] [0m[0m}; deff v$2(v$16, v$17, v$18) = {[0m
+[0m[[0m[31merror[0m] [0m[0m  vall v$19 = 3;[0m
+[0m[[0m[31merror[0m] [0m[0m  valp v$20 = block-alloc-202(v$19);[0m
+[0m[[0m[31merror[0m] [0m[0m  vall v$21 = 0;[0m
+[0m[[0m[31merror[0m] [0m[0m  valp v$22 = block-set(v$20, v$21, v$4);[0m
+[0m[[0m[31merror[0m] [0m[0m  vall v$23 = 1;[0m
+[0m[[0m[31merror[0m] [0m[0m  valp v$24 = block-set(v$20, v$23, v$18);[0m
+[0m[[0m[31merror[0m] [0m[0m  vall v$25 = 2;[0m
+[0m[[0m[31merror[0m] [0m[0m  valp v$26 = block-set(v$20, v$25, v$17);[0m
+[0m[[0m[31merror[0m] [0m[0m  v$16(v$20)[0m
+[0m[[0m[31merror[0m] [0m[0m}; deff v$3(v$27, v$28, v$29, v$30) = {[0m
+[0m[[0m[31merror[0m] [0m[0m  defc v$31(v$32) = {[0m
+[0m[[0m[31merror[0m] [0m[0m    vall v$33 = 0;[0m
+[0m[[0m[31merror[0m] [0m[0m    valp v$34 = block-get(v$29, v$33);[0m
+[0m[[0m[31merror[0m] [0m[0m    v$34(v$27, v$29, v$32)[0m
+[0m[[0m[31merror[0m] [0m[0m  };[0m
+[0m[[0m[31merror[0m] [0m[0m  vall v$35 = 0;[0m
+[0m[[0m[31merror[0m] [0m[0m  valp v$36 = block-get(v$28, v$35);[0m
+[0m[[0m[31merror[0m] [0m[0m  v$36(v$31, v$28, v$30)[0m
+[0m[[0m[31merror[0m] [0m[0m}; deff v$4(v$37, v$38, v$39) = {[0m
+[0m[[0m[31merror[0m] [0m[0m  vall v$40 = 1;[0m
+[0m[[0m[31merror[0m] [0m[0m  valp v$41 = block-get(v$38, v$40);[0m
+[0m[[0m[31merror[0m] [0m[0m  vall v$42 = 2;[0m
+[0m[[0m[31merror[0m] [0m[0m  valp v$43 = block-get(v$38, v$42);[0m
+[0m[[0m[31merror[0m] [0m[0m  v$3(v$37, v$41, v$43, v$39)[0m
+[0m[[0m[31merror[0m] [0m[0m}; deff v$5(v$44, v$45, v$46) = {[0m
+[0m[[0m[31merror[0m] [0m[0m  valp v$47 = v$45 + v$46;[0m
+[0m[[0m[31merror[0m] [0m[0m  vall v$48 = 1;[0m
+[0m[[0m[31merror[0m] [0m[0m  valp v$49 = v$47 - v$48;[0m
+[0m[[0m[31merror[0m] [0m[0m  v$44(v$49)[0m
+[0m[[0m[31merror[0m] [0m[0m}; deff v$6(v$50, v$51) = {[0m
+[0m[[0m[31merror[0m] [0m[0m  vall v$52 = 3;[0m
+[0m[[0m[31merror[0m] [0m[0m  valp v$53 = v$51 + v$52;[0m
+[0m[[0m[31merror[0m] [0m[0m  vall v$54 = 1;[0m
+[0m[[0m[31merror[0m] [0m[0m  valp v$55 = v$53 - v$54;[0m
+[0m[[0m[31merror[0m] [0m[0m  v$50(v$55)[0m
+[0m[[0m[31merror[0m] [0m[0m}; deff v$7(v$56, v$57) = {[0m
+[0m[[0m[31merror[0m] [0m[0m  valp v$58 = v$57 + v$57;[0m
+[0m[[0m[31merror[0m] [0m[0m  vall v$59 = 1;[0m
+[0m[[0m[31merror[0m] [0m[0m  valp v$60 = v$58 - v$59;[0m
+[0m[[0m[31merror[0m] [0m[0m  v$56(v$60)[0m
+[0m[[0m[31merror[0m] [0m[0m}; deff v$8(v$61, v$62, v$63) = {[0m
+[0m[[0m[31merror[0m] [0m[0m  v$6(v$61, v$63)[0m
+[0m[[0m[31merror[0m] [0m[0m}; deff v$9(v$64, v$65, v$66) = { v$7(v$64, v$66) };[0m
+[0m[[0m[31merror[0m] [0m[0mvall v$67 = 1;[0m
+[0m[[0m[31merror[0m] [0m[0mvalp v$68 = block-alloc-202(v$67);[0m
+[0m[[0m[31merror[0m] [0m[0mvall v$69 = 1;[0m
+[0m[[0m[31merror[0m] [0m[0mvalp v$70 = block-alloc-202(v$69);[0m
+[0m[[0m[31merror[0m] [0m[0mvall v$71 = 0;[0m
+[0m[[0m[31merror[0m] [0m[0mvalp v$72 = block-set(v$68, v$71, v$8);[0m
+[0m[[0m[31merror[0m] [0m[0mvall v$73 = 0;[0m
+[0m[[0m[31merror[0m] [0m[0mvalp v$74 = block-set(v$70, v$73, v$9);[0m
+[0m[[0m[31merror[0m] [0m[0mdefc v$75(v$76) = {[0m
+[0m[[0m[31merror[0m] [0m[0m  vall v$77 = 79;[0m
+[0m[[0m[31merror[0m] [0m[0m  defc v$78(v$79) = {[0m
+[0m[[0m[31merror[0m] [0m[0m    defc v$80(v$81) = {[0m
+[0m[[0m[31merror[0m] [0m[0m      valp v$82 = id(v$81);[0m
+[0m[[0m[31merror[0m] [0m[0m      defc v$83(v$84) = {[0m
+[0m[[0m[31merror[0m] [0m[0m        vall v$85 = 147;[0m
+[0m[[0m[31merror[0m] [0m[0m        defc v$86(v$87) = {[0m
+[0m[[0m[31merror[0m] [0m[0m          defc v$88(v$89) = {[0m
+[0m[[0m[31merror[0m] [0m[0m            valp v$90 = id(v$89);[0m
+[0m[[0m[31merror[0m] [0m[0m            defc v$91(v$92) = {[0m
+[0m[[0m[31merror[0m] [0m[0m              vall v$93 = 9;[0m
+[0m[[0m[31merror[0m] [0m[0m              defc v$94(v$95) = {[0m
+[0m[[0m[31merror[0m] [0m[0m                defc v$96(v$97) = {[0m
+[0m[[0m[31merror[0m] [0m[0m                  vall v$98 = 1;[0m
+[0m[[0m[31merror[0m] [0m[0m                  vall v$99 = 1;[0m
+[0m[[0m[31merror[0m] [0m[0m                  valp v$100 = v$98 >> v$99;[0m
+[0m[[0m[31merror[0m] [0m[0m                  halt(v$100)[0m
+[0m[[0m[31merror[0m] [0m[0m                };[0m
+[0m[[0m[31merror[0m] [0m[0m                v$1(v$96, v$95)[0m
+[0m[[0m[31merror[0m] [0m[0m              };[0m
+[0m[[0m[31merror[0m] [0m[0m              vall v$101 = 0;[0m
+[0m[[0m[31merror[0m] [0m[0m              valp v$102 = block-get(v$92, v$101);[0m
+[0m[[0m[31merror[0m] [0m[0m              v$102(v$94, v$92, v$93)[0m
+[0m[[0m[31merror[0m] [0m[0m            };[0m
+[0m[[0m[31merror[0m] [0m[0m            v$2(v$91, v$70, v$68)[0m
+[0m[[0m[31merror[0m] [0m[0m          };[0m
+[0m[[0m[31merror[0m] [0m[0m          v$1(v$88, v$87)[0m
+[0m[[0m[31merror[0m] [0m[0m        };[0m
+[0m[[0m[31merror[0m] [0m[0m        vall v$103 = 0;[0m
+[0m[[0m[31merror[0m] [0m[0m        valp v$104 = block-get(v$84, v$103);[0m
+[0m[[0m[31merror[0m] [0m[0m        v$104(v$86, v$84, v$85)[0m
+[0m[[0m[31merror[0m] [0m[0m      };[0m
+[0m[[0m[31merror[0m] [0m[0m      v$2(v$83, v$68, v$68)[0m
+[0m[[0m[31merror[0m] [0m[0m    };[0m
+[0m[[0m[31merror[0m] [0m[0m    v$1(v$80, v$79)[0m
+[0m[[0m[31merror[0m] [0m[0m  };[0m
+[0m[[0m[31merror[0m] [0m[0m  vall v$105 = 0;[0m
+[0m[[0m[31merror[0m] [0m[0m  valp v$106 = block-get(v$76, v$105);[0m
+[0m[[0m[31merror[0m] [0m[0m  v$106(v$78, v$76, v$77)[0m
+[0m[[0m[31merror[0m] [0m[0m};[0m
+[0m[[0m[31merror[0m] [0m[0mv$2(v$75, v$68, v$70)[0m
+[0m[[0m[31merror[0m] [0m[0mexpected output: [0m
+[0m[[0m[31merror[0m] [0m[0mvall v$1 = 79;[0m
+[0m[[0m[31merror[0m] [0m[0m           valp v$2 = byte-write(v$1);[0m
+[0m[[0m[31merror[0m] [0m[0m           vall v$3 = 75;[0m
+[0m[[0m[31merror[0m] [0m[0m           valp v$4 = byte-write(v$3);[0m
+[0m[[0m[31merror[0m] [0m[0m           vall v$5 = 10;[0m
+[0m[[0m[31merror[0m] [0m[0m           valp v$6 = byte-write(v$5);[0m
+[0m[[0m[31merror[0m] [0m[0m           vall v$7 = 0;[0m
+[0m[[0m[31merror[0m] [0m[0m           halt(v$7), took 0.016 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestInliningConstantFoldingDCE[0m finished, took 0.016 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantPropagationSimple[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestConstantPropagationSimple[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 0, took 0.002 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:113)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSOptStats(CPSOptTest.scala:60)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSBothSeq(CPSOptTest.scala:73)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Greybox.testConstantPropagationSimple([35mCPSOptimizer_Greybox.scala[0m:[33m104[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantPropagationSimple[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestNeutralElementsMulZero1[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestNeutralElementsMulZero1[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 0, took 0.002 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:113)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSOptStats(CPSOptTest.scala:60)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSBothSeq(CPSOptTest.scala:73)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Greybox.testNeutralElementsMulZero1([35mCPSOptimizer_Greybox.scala[0m:[33m134[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestNeutralElementsMulZero1[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestNeutralElementsMulZero2[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestNeutralElementsMulZero2[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 0, took 0.002 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:113)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSOptStats(CPSOptTest.scala:60)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSBothSeq(CPSOptTest.scala:73)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Greybox.testNeutralElementsMulZero2([35mCPSOptimizer_Greybox.scala[0m:[33m137[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestNeutralElementsMulZero2[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestFunInlining[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestFunInlining[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0mdef f(x: Int) = x; f(1)[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       3  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       1  AppF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  AppC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 1[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 1[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.004 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestFunInlining[0m finished, took 0.004 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingDiv[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestConstantFoldingDiv[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0m2 / 1[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.003 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingDiv[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingMod[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestConstantFoldingMod[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0m2 % 1[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.003 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingMod[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestCommonSubexpressionEliminationSimpleBlockTag[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestCommonSubexpressionEliminationSimpleBlockTag[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 1, took 0.003 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:118)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSOptStats(CPSOptTest.scala:60)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSBothSeq(CPSOptTest.scala:73)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Greybox.testCommonSubexpressionEliminationSimpleBlockTag([35mCPSOptimizer_Greybox.scala[0m:[33m144[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestCommonSubexpressionEliminationSimpleBlockTag[0m finished, took 0.004 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingBooleanAnd[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestConstantFoldingBooleanAnd[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0mtrue && false[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       5  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       3  LetC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  If[0m
+[0m[[0m[31merror[0m] [0m[0m       1  AppC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mLogic Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSNe$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 3[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.006 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingBooleanAnd[0m finished, took 0.006 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestEtaReductionInfintelyRecursiveFunction[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestEtaReductionInfintelyRecursiveFunction[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0mdef f(x: Int): Int = g(x); def g(x: Int): Int = f(x); if (getchar() == -1) g(3) else 0[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       6  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       5  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       3  LetC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  If[0m
+[0m[[0m[31merror[0m] [0m[0m       1  AppC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSSub$[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSOr$[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftL$[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSByteRead$[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mLogic Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSEq$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 2[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 3[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.005 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestEtaReductionInfintelyRecursiveFunction[0m finished, took 0.005 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingIntChar[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestConstantFoldingIntChar[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0m10.toChar[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.002 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingIntChar[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingIntPNot[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestConstantFoldingIntPNot[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0mval x = ().isUnit; ()[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       7  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       3  LetC[0m
+[0m[[0m[31merror[0m] [0m[0m       3  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       1  If[0m
+[0m[[0m[31merror[0m] [0m[0m       1  AppC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSId$[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSAnd$[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mLogic Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSEq$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 3[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.002 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingIntPNot[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldDCEContinuations[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestConstantFoldDCEContinuations[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0mif (true) 1 else 2[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       5  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       3  LetC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  If[0m
+[0m[[0m[31merror[0m] [0m[0m       1  AppC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mLogic Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSNe$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 3[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.002 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldDCEContinuations[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingIntP[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestConstantFoldingIntP[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0mval x = 1.isInt; ()[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       7  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       3  LetC[0m
+[0m[[0m[31merror[0m] [0m[0m       3  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       1  If[0m
+[0m[[0m[31merror[0m] [0m[0m       1  AppC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSId$[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSAnd$[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mLogic Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSEq$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 3[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.002 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingIntP[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingPlus[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestConstantFoldingPlus[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0m2 + 1[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.003 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingPlus[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestFunInliningInsideFunctionBodyDifferentLetRecs[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestFunInliningInsideFunctionBodyDifferentLetRecs[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0mdef f(x: Int) = x; val o = 1; def g(x: Int) = f(x); g(o)[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       3  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       2  AppF[0m
+[0m[[0m[31merror[0m] [0m[0m       2  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       1  AppC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSId$[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 2[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 1[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.003 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestFunInliningInsideFunctionBodyDifferentLetRecs[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestFunInlingAndDCE[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestFunInlingAndDCE[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0mdef f(x: Int) = x; def g(y: Boolean, z: Int) = f(z); g[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       2  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 2[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.002 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestFunInlingAndDCE[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingTypePrims[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestConstantFoldingTypePrims[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0mtrue.isBool[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       6  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       3  LetC[0m
+[0m[[0m[31merror[0m] [0m[0m       2  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       1  If[0m
+[0m[[0m[31merror[0m] [0m[0m       1  AppC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSAnd$[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mLogic Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSEq$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 3[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.004 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingTypePrims[0m finished, took 0.004 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestDCEFunsRecursive1[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestDCEFunsRecursive1[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0mdef f(x: Int): Int = g(x) + 1; def g(y: Int): Int = f(y) + 1; 0[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       3  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 2[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.003 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestDCEFunsRecursive1[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestDCEFunsRecursive2[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestDCEFunsRecursive2[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0mdef f(x: Int): Int = g(x) + 1; def g(y: Int): Int = f(y) + 1; def h(z: Int) = z; 0[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       3  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 3[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.003 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestDCEFunsRecursive2[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantCapturingInFunction1[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantCapturingInFunction1[0m finished, took 0.006 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantCapturingInFunction2[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestConstantCapturingInFunction2[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0mval one = 1; def f(x: Int) = x + one; f(1) + f(2) + f(3) + one[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m      13  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m      12  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       3  AppF[0m
+[0m[[0m[31merror[0m] [0m[0m       3  AppC[0m
+[0m[[0m[31merror[0m] [0m[0m       3  LetC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       6  CPSSub$[0m
+[0m[[0m[31merror[0m] [0m[0m       6  CPSAdd$[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 1[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 3[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.005 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantCapturingInFunction2[0m finished, took 0.006 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestNeutralElementsSubItself[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestNeutralElementsSubItself[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 0, took 0.001 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:113)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSOptStats(CPSOptTest.scala:60)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSBothSeq(CPSOptTest.scala:73)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Greybox.testNeutralElementsSubItself([35mCPSOptimizer_Greybox.scala[0m:[33m125[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestNeutralElementsSubItself[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingMinus[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestConstantFoldingMinus[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0m2 - 1[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.002 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingMinus[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingTimes[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestConstantFoldingTimes[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0m2 * 1[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.002 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingTimes[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestNeutralElementsAddZero1[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestNeutralElementsAddZero1[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 0, took 0.001 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:113)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSOptStats(CPSOptTest.scala:60)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSBothSeq(CPSOptTest.scala:73)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Greybox.testNeutralElementsAddZero1([35mCPSOptimizer_Greybox.scala[0m:[33m116[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestNeutralElementsAddZero1[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestNeutralElementsAddZero2[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestNeutralElementsAddZero2[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 0, took 0.002 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:113)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSOptStats(CPSOptTest.scala:60)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSBothSeq(CPSOptTest.scala:73)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Greybox.testNeutralElementsAddZero2([35mCPSOptimizer_Greybox.scala[0m:[33m119[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestNeutralElementsAddZero2[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestCommonSubexpressionEliminationComplexBlockTag[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestCommonSubexpressionEliminationComplexBlockTag[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 1, took 0.002 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:118)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSOptStats(CPSOptTest.scala:60)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSBothSeq(CPSOptTest.scala:73)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Greybox.testCommonSubexpressionEliminationComplexBlockTag([35mCPSOptimizer_Greybox.scala[0m:[33m147[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestCommonSubexpressionEliminationComplexBlockTag[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestDCELetPrimitive[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestDCELetPrimitive[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 1, took 0.005 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:118)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:101)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSOptStats(CPSOptTest.scala:60)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSOptEarly(CPSOptTest.scala:67)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Greybox.testDCELetPrimitive([35mCPSOptimizer_Greybox.scala[0m:[33m38[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestDCELetPrimitive[0m finished, took 0.007 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestNeutralElementsMulOne1[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestNeutralElementsMulOne1[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 0, took 0.001 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:113)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSOptStats(CPSOptTest.scala:60)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSBothSeq(CPSOptTest.scala:73)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Greybox.testNeutralElementsMulOne1([35mCPSOptimizer_Greybox.scala[0m:[33m128[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestNeutralElementsMulOne1[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestNeutralElementsMulOne2[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestNeutralElementsMulOne2[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 0, took 0.001 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:113)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSOptStats(CPSOptTest.scala:60)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSBothSeq(CPSOptTest.scala:73)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Greybox.testNeutralElementsMulOne2([35mCPSOptimizer_Greybox.scala[0m:[33m131[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestNeutralElementsMulOne2[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestEtaReduction[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestEtaReduction[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m      def f(x: Int) = x; def g(y: Int) = f(y); def h(z: Int) = g(z);[0m
+[0m[[0m[31merror[0m] [0m[0m      g(1) + g(2) + g(3) + h(1) + h(2) + h(3) + f(1) + f(2) + f(3)[0m
+[0m[[0m[31merror[0m] [0m[0m    [0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m      19  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m      18  AppF[0m
+[0m[[0m[31merror[0m] [0m[0m      17  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       9  AppC[0m
+[0m[[0m[31merror[0m] [0m[0m       9  LetC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       8  CPSSub$[0m
+[0m[[0m[31merror[0m] [0m[0m       8  CPSAdd$[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 3[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 9[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.005 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestEtaReduction[0m finished, took 0.005 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestDCELetLiteral[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestDCELetLiteral[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestDCEFunsSimple[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestDCEFunsSimple[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0mdef f(x: Int): Int = f(x); ()[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       3  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 1[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.002 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestDCEFunsSimple[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestFunInliningInsideFunctionBodySameLetRec[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestFunInliningInsideFunctionBodySameLetRec[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0mdef f(x: Int) = x; def g(x: Int) = f(x); g(1)[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       3  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       2  AppF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  AppC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 2[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 1[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.002 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestFunInliningInsideFunctionBodySameLetRec[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingBooleanOr[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestConstantFoldingBooleanOr[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0mtrue || false[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       5  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       3  LetC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  If[0m
+[0m[[0m[31merror[0m] [0m[0m       1  AppC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mLogic Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSNe$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 0[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 3[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.002 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestConstantFoldingBooleanOr[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestFunInliningCrasher[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestFunInliningCrasher[0m failed: assertion failed: Checks failed for: [0m
+[0m[[0m[31merror[0m] [0m[0mdef f(x: Int): Int = if (x == 0) 0 else g(x - 1); def g(y: Int): Int = f(y); def h(z: Int) = z; f(0)[0m
+[0m[[0m[31merror[0m] [0m[0mStatistics:[0m
+[0m[[0m[31merror[0m] [0m[0mInstruction Stats[0m
+[0m[[0m[31merror[0m] [0m[0m=================[0m
+[0m[[0m[31merror[0m] [0m[0m       5  LetL[0m
+[0m[[0m[31merror[0m] [0m[0m       3  LetC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  If[0m
+[0m[[0m[31merror[0m] [0m[0m       1  AppF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  AppC[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetF[0m
+[0m[[0m[31merror[0m] [0m[0m       1  LetP[0m
+[0m[[0m[31merror[0m] [0m[0m       1  Halt[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mValue Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSArithShiftR$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mLogic Primitives Stats[0m
+[0m[[0m[31merror[0m] [0m[0m======================[0m
+[0m[[0m[31merror[0m] [0m[0m       1  CPSEq$[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFunctions defined: 3[0m
+[0m[[0m[31merror[0m] [0m[0mContinuations defined: 3[0m
+[0m[[0m[31merror[0m] [0m[0m, took 0.003 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestFunInliningCrasher[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestNeutralElementsSubZero[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[31mtestNeutralElementsSubZero[0m failed: java.lang.[31mIndexOutOfBoundsException[0m: 0, took 0.002 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.List.apply(List.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.shrinkT$1(CPSOptimizer.scala:113)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.miniscala$CPSOptimizer$$shrink(CPSOptimizer.scala:137)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer$$anonfun$9.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$iterate$1.apply(Stream.scala:1248)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$$anonfun$take$2.apply(Stream.scala:853)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1233)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1223)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:4)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.package$.fixedPoint(package.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizer.apply(CPSOptimizer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.CPSOptimizerHigh$.apply(CPSOptimizer.scala:247)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.miniscala$test$infrastructure$CompilerTest$$compileInner(CompilerTest.scala:37)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$$anonfun$compileUsingPipelineAndRedirect$1.apply(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest$$anon$1.run(SandboxedTest.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTest(SandboxedTest.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.SandboxedTest.sandboxedTestWithRedirectedIO(SandboxedTest.scala:45)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CompilerTest$class.compileUsingPipelineAndRedirect(CompilerTest.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSTest.compileUsingPipelineAndRedirect(CPSTest.scala:11)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSOptStats(CPSOptTest.scala:60)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.infrastructure.CPSOptTest.testCPSBothSeq(CPSOptTest.scala:73)[0m
+[0m[[0m[31merror[0m] [0m[0m    at miniscala.test.CPSOptimizer_Greybox.testNeutralElementsSubZero([35mCPSOptimizer_Greybox.scala[0m:[33m122[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:564)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest miniscala.test.[33mCPSOptimizer_Greybox[0m.[36mtestNeutralElementsSubZero[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[31m40 failed[0m[34m, [0m[34m0 ignored[0m[34m, 42 total, 0.186s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 42 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[31merror[0m] [0m[0mFailed: Total 104, Failed 51, Errors 0, Passed 53[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	miniscala.test.CPSOptimizer_Blackbox[0m
+[0m[[0m[31merror[0m] [0m[0m	miniscala.test.CPSOptimizer_Greybox[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

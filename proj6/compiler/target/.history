@@ -1,0 +1,12 @@
+run "val u = 1; 0"
+quit
+exit
+run "val u = 1; 0"
+q
+exit
+run "val u = 1; 0"
+q
+quit
+exit
+run "val u = 1; 0"
+exit
